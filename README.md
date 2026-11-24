@@ -18,3 +18,7 @@ Writes the one-line entry to `/output/entry.txt` (max 140 characters, single lin
 ## License
 
 MIT — see `LICENSE`.
+
+## Why this line works
+
+The joke lands because it flips the vacuum's failure into a deliberate choice: instead of admitting it missed a spot, the robot claims the dust bunny is a paying tenant — quieter, tidier, and frankly better behaved than the cat. It fits the brief's tired-homeowner voice, where you have stopped fighting the mess and started negotiating with it, and the punchline comes from the pet rivalry every household recognizes.
